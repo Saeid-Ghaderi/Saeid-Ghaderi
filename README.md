@@ -7,12 +7,6 @@ I have more than 11 years of IT experience in various positions like Senior .NET
 
 These are some of the major technologies that I use or have worked on in the past:
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saeid-ghaderi&label=Profile%20views&color=0e75b6&style=flat" alt="saeid-ghaderi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saeid-ghaderi" alt="saeid-ghaderi" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saeidghaderi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saeidghaderi" height="30" width="40" /></a>
