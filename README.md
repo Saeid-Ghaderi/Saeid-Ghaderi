@@ -1,65 +1,145 @@
+# Hi there, I'm Saeid Ghaderi 👋
+
+### About me:
+
+I am from Germany and currently <!--timespan:start(%y)(env:1)-->20<!--timespan:end--> years old. I'm very interested in programming and so did I start 
+with basic Minecraft Java Plugins in 2019 and now I also make Discord Bots and other stuff!
+
+### Connect with me:
+
+[<img src="https://img.shields.io/badge/Taucher2003-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>][taucherdiscord] 
+[<img src="https://img.shields.io/badge/Taucher2003-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
+[<img src="https://img.shields.io/badge/Taucher2003-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
+<br>
+<br>
+<br>
+
+### Languages & Tools
+
+<img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/> <!--img src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/--> 
+<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <!--img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/--> <!--img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/--> <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/ruby%20on%20rails-CC0000.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white"/> <img src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/> <!--img src="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white"/--> <!--img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/--> <img src="https://img.shields.io/badge/postresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <!--img src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/--> <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white"/> <img src="https://img.shields.io/badge/terraform-7B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-5464c8?style=for-the-badge&logo=intellij%20idea&logoColor=white"/> <!--img src="https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white"/--> <!--img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white"/--> <!--img src="https://img.shields.io/badge/rider-faaa14.svg?&style=for-the-badge&logo=rider&logoColor=white"/--> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <!--img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/--> <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/gitpod-FFAE33.svg?&style=for-the-badge&logo=gitpod&logoColor=white"/> <img src="https://img.shields.io/badge/insomnia%20-5849BE.svg?&style=for-the-badge&logo=insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/> <img src="https://img.shields.io/badge/gradle-02303A.svg?&style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white"/>
+<br>
+<br>
+<br>
+
+### Certifications & Badges
+
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/GitLab-Certified-Associate.png" height="200px">][gitlab-certified-associate]
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/gitlab_mvp_badge.png" height="200px">][gitlab-mvp-15-7]
+[<img src="https://raw.githubusercontent.com/Taucher2003/Taucher2003/master/assets/gitlab-leading-organization-badge.png" height="200px">][gitlab-leading-organization]
+<br>
+<br>
+
+[![@taucher2003's Holopin board](https://holopin.me/taucher2003)](https://holopin.io/@taucher2003)
+
+### Projects that I am part of:
+| Project | Position | Timespan |
+|---------|----------|----------|
+| ~~GΛMΞFM TeamSpeak & Webradio~~ <br> *(Project discontinued)* | ~~Manager & Developer of the Discordbot~~ | 16.06.2018 - 30.08.2020 |
+| Vrox Network | Founder, Manager & Leading Developer | since 01.07.2018 |
+| Traidio Network | Administrator | since 17.04.2019 |
+| ~~LOST ROCKET Development~~ <p>● ~~ReactionRole Discordbot~~ <br> *(Project discontinued)* | ~~Developer & Support Manager~~<p> ~~Leading Developer~~<p> | 30.01.2020 - 22.06.2022 <p> 30.01.2020 - 22.06.2022<p> |
+| ~~Hamibot~~ <br> *(Team left)* | ~~Developer~~ | 22.09.2020 - 07.03.2021 |
+| NotABot | System Administrator & DevOps Engineer | since 07.03.2021 |
+| Reputation Bot | Collaborator | since 30.06.2021 |
+| GitLab | GitLab Hero<br>GitLab Core Team | since 18.11.2021<br>since 12.02.2023 |
+| Uroria Network | System Administrator & DevOps Engineer | since 15.10.2022 |
+<!--| MarniX Developments | Founder, CTO | since 03.08.2020 |-->
+
+<p>
+ 
+[![Discord](https://img.shields.io/discord/758702426248970270?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord]
+[![Discord](https://img.shields.io/discord/485875390976622593?color=fafafa&label=Traidio%20Network&logo=discord&style=flat-square)][traidiodiscord]
+[![Discord](https://img.shields.io/discord/289819432992243712?color=99beff&label=LOST%20ROCKET%20Development&logo=discord&style=flat-square)][lostrocketdiscord]
+[![Discord](https://img.shields.io/discord/803679267303981056?color=c32047&label=NotABot&logo=discord&style=flat-square)][notabotdiscord]
+[![Discord](https://img.shields.io/discord/853250161915985958?color=fdb846&label=Reputation%20Bot&logo=discord&style=flat-square)][reputationbotdiscord]
+[![Discord](https://img.shields.io/discord/778180511088640070?color=fc6d26&label=GitLab%20Community&logo=discord&style=flat-square)][gitlab-discord]
+[![Discord](https://img.shields.io/discord/1031228611941896345?color=009ec2&label=Uroria%20Network&logo=discord&style=flat-square)][uroriadiscord]
+ 
+<!-- DEPRECATED SHIELDS -->
+<!--![Discord](https://img.shields.io/discord/717002750499618918?color=de4190&label=MarniX%20Developments&logo=discord&style=flat-square)-->
+<!--[![Discord](https://img.shields.io/discord/423385448295956491?color=191529&label=G%CE%9BM%CE%9EFM&logo=discord&style=flat-square)][gamefmdiscord]-->
+<!--[![Discord](https://img.shields.io/discord/715988026479607891?color=1d67dd&label=Hamibot&logo=discord&style=flat-square)][hamibotdiscord]-->
+ 
+
 ---
-title: Saeid Ghaderi
-date: 2020-29-08
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'Saeid Ghaderi'
----
+<br>
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ ⚡ **Recent Github Activity**
 
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+<!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#40](https://github.com/code0-tech/infrastructure/pull/40) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+2. 👍 Approved [#40](https://github.com/code0-tech/infrastructure/pull/40#pullrequestreview-2105175408) in [code0-tech/infrastructure](https://github.com/code0-tech/infrastructure)<br>
+3. 🎉 Merged PR [#202](https://github.com/code0-tech/sagittarius/pull/202) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+4. 👍 Approved [#202](https://github.com/code0-tech/sagittarius/pull/202#pullrequestreview-2103127453) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+5. 🎉 Merged PR [#198](https://github.com/code0-tech/sagittarius/pull/198) in [code0-tech/sagittarius](https://github.com/code0-tech/sagittarius)<br>
+<!--RECENT_ACTIVITY:end-->
 
-**Languages I have used**
+ ⚡ **My Week**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+<!--START_SECTION:waka-->
 
-**Some of the technologies I have worked with**
+```txt
+Ruby             1 hr 36 mins    ███████████████████▓░░░░░   78.57 %
+YAML             8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+JSON             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+JavaScript       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+SQL              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+```
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
+<!--END_SECTION:waka-->
 
-**Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/-🧬&nbsp;&nbsp;My&nbsp;Website-000000?style=flat)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
-[![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+ ⚡ **Github Stats**
 
-**Cybersecurity projects**
+  <img align="left" alt="Taucher2003's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Taucher2003&count_private=true&show_icons=true&hide_border=true" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <br>
+  
+  <details>
+ <summary>⚡ WakaTime Stats (All Time, since 24 Sep 2020)</summary>
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/53d96858-f9a4-473d-ab90-fe937a18d346.svg" width="600px">
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/514c7cf9-b341-4ea4-9f1a-c70ba3b801f1.svg" width="600px">
+  <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/14d75efe-ef68-40b3-ad2a-92e36e55fdfd.svg" width="600px">
+ </details>
+ <details>
+ <summary>⚡ WakaTime Stats (Last 30 Days)</summary>
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/2bc449fd-1ebc-4fdd-84ef-cc46318983ef.svg" width="600px">
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/12ab2c12-b456-4ee9-a5bd-2f167c3d3da1.svg" width="600px">
+ <img src="https://wakatime.com/share/@30a41e50-568b-4814-8487-1688250ab14e/f11db079-5513-400a-8733-dd69132e3070.svg" width="600px">
+ </details>
+ 
 
-[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
 
-**Other projects**
+[taucherdiscord]: https://discord.com/users/444889694002741249
+[gitlab]: https://gitlab.com/Taucher2003
+[github]: https://github.com/Taucher2003
+[vroxdiscord]: https://discord.gg/rCj7MeU
+[traidiodiscord]: https://discord.gg/xjFkW8a
+[gamefmdiscord]: https://discord.gg/QfG3kPM
+[lostrocketdiscord]: https://discord.gg/UPM7KkB
+[reactionroleinvite]: https://discord.com/oauth2/authorize?client_id=664849019654111233&permissions=268790848&scope=bot
+[hamibotdiscord]: https://discord.gg/7QGMbuC
+[notabotdiscord]: https://discord.gg/CSCYeNfA77
+[reputationbotdiscord]: https://discord.gg/wrqrUJGuru
+[uroriadiscord]: https://dc.uroria.com
 
-[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
-[![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
-[![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
-[![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-
-⭐️ From [Saeid Ghaderi]([https://github.com/adamalston](https://flowcv.me/webpageghaderi))
+[gitlab-discord]: https://discord.gg/gitlab
+[gitlab-certified-associate]: https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam
+[gitlab-mvp-15-7]: https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/#mvp
+[gitlab-heroes]: https://about.gitlab.com/community/heroes/
+[gitlab-leading-organization]: https://about.gitlab.com/handbook/marketing/community-relations/leading-organizations/
