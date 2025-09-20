@@ -18,7 +18,6 @@ I have more than 11 years of IT experience in various positions like Senior .NET
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeid-ghaderi&show_icons=true&locale=en" alt="saeid-ghaderi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeid-ghaderi&" alt="saeid-ghaderi" /></p>
-<p> <img src="https://streak-stats.demolab.com?user=saeid-ghaderi" alt="saeid-ghaderi" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
