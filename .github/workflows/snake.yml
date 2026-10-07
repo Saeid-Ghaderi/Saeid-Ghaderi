@@ -21,7 +21,113 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push the snake to the output branch
+      - name: generate github-stats.svg
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const fs = require('fs');
+            const login = context.repo.owner;
+
+            const profile = await github.graphql(`
+              query ($login: String!) {
+                user(login: $login) {
+                  name
+                  createdAt
+                  contributionsCollection {
+                    contributionYears
+                    contributionCalendar { totalContributions }
+                  }
+                }
+              }`, { login });
+
+            const user = profile.user;
+            const lastTwelveMonths = user.contributionsCollection.contributionCalendar.totalContributions;
+            const now = new Date();
+            let total = 0;
+            let privateCount = 0;
+            const days = new Map();
+
+            for (const year of user.contributionsCollection.contributionYears) {
+              const from = `${year}-01-01T00:00:00Z`;
+              const to = year === now.getUTCFullYear() ? now.toISOString() : `${year}-12-31T23:59:59Z`;
+              const result = await github.graphql(`
+                query ($login: String!, $from: DateTime!, $to: DateTime!) {
+                  user(login: $login) {
+                    contributionsCollection(from: $from, to: $to) {
+                      restrictedContributionsCount
+                      contributionCalendar {
+                        totalContributions
+                        weeks { contributionDays { date contributionCount } }
+                      }
+                    }
+                  }
+                }`, { login, from, to });
+              const collection = result.user.contributionsCollection;
+              total += collection.contributionCalendar.totalContributions;
+              privateCount += collection.restrictedContributionsCount;
+              for (const week of collection.contributionCalendar.weeks) {
+                for (const day of week.contributionDays) days.set(day.date, day.contributionCount);
+              }
+            }
+
+            let activeDays = 0;
+            let best = null;
+            for (const [date, count] of days) {
+              if (count > 0) activeDays++;
+              if (!best || count > best.count) best = { date, count };
+            }
+
+            const fmt = (n) => n.toLocaleString('en-US');
+            const fmtDate = (iso, options) => new Date(iso).toLocaleDateString('en-US', { ...options, timeZone: 'UTC' });
+            const escape = (text) => String(text).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
+            const title = `${user.name || login}'s GitHub Activity`;
+            const since = `since ${fmtDate(user.createdAt, { month: 'short', year: 'numeric' })}`;
+            const rows = [
+              ['Last 12 months', fmt(lastTwelveMonths)],
+              ['Private contributions', fmt(privateCount)],
+              ['Public contributions', fmt(total - privateCount)],
+              ['Active days', fmt(activeDays)],
+              ['Best day', best && best.count > 0 ? `${fmt(best.count)} (${fmtDate(best.date, { month: 'short', day: 'numeric', year: 'numeric' })})` : '0'],
+            ];
+
+            const themes = {
+              light: { bg: '#fffefe', border: '#e4e2e2', title: '#2f80ed', text: '#434d58', muted: '#6e7781', ring: '#2f80ed' },
+              dark: { bg: '#0d1117', border: '#30363d', title: '#58a6ff', text: '#c9d1d9', muted: '#8b949e', ring: '#58a6ff' },
+            };
+
+            const render = (t) => {
+              const lines = rows.map(([label, value], i) => {
+                const y = 75 + i * 25;
+                return `<text x="25" y="${y}" class="label">${escape(label)}:</text><text x="215" y="${y}" class="value">${escape(value)}</text>`;
+              }).join('\n  ');
+              return `<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="card-title">
+              <title id="card-title">${escape(title)}</title>
+              <style>
+                text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+                .title { font-size: 18px; font-weight: 600; fill: ${t.title}; }
+                .label { font-size: 14px; font-weight: 600; fill: ${t.text}; }
+                .value { font-size: 14px; fill: ${t.text}; }
+                .total { font-size: 22px; font-weight: 700; fill: ${t.text}; }
+                .caption { font-size: 11px; fill: ${t.muted}; }
+              </style>
+              <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="${t.bg}" stroke="${t.border}"/>
+              <text x="25" y="35" class="title">${escape(title)}</text>
+              ${lines}
+              <circle cx="410" cy="108" r="50" fill="none" stroke="${t.ring}" stroke-width="6"/>
+              <text x="410" y="113" text-anchor="middle" class="total">${fmt(total)}</text>
+              <text x="410" y="131" text-anchor="middle" class="caption">contributions</text>
+              <text x="410" y="180" text-anchor="middle" class="caption">${escape(since)}</text>
+            </svg>
+            `;
+            };
+
+            fs.mkdirSync('dist', { recursive: true });
+            fs.writeFileSync('dist/github-stats.svg', render(themes.light));
+            fs.writeFileSync('dist/github-stats-dark.svg', render(themes.dark));
+            core.info(`total=${total} private=${privateCount} lastTwelveMonths=${lastTwelveMonths} activeDays=${activeDays}`);
+
+      - name: push the snake and the stats card to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
