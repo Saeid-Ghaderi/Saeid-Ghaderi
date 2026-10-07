@@ -13,7 +13,7 @@ I have more than 12 years of IT experience in various positions like Senior .NET
 
 ### ⭐ Core Expertise: .NET, Microsoft &amp; Software Architecture
 
-11+ years of designing and building web applications, APIs and services on the Microsoft stack.
+12+ years of designing and building web applications, APIs and services on the Microsoft stack.
 
 <table>
   <tr>
