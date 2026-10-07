@@ -54,9 +54,16 @@ I have more than 11 years of IT experience in various positions like Senior .NET
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeid-ghaderi&show_icons=true&locale=en&layout=compact" alt="saeid-ghaderi" /></p> --->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeid-ghaderi&show_icons=true&locale=en" alt="saeid-ghaderi" /></p>
+<!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeid-ghaderi&show_icons=true&locale=en" alt="saeid-ghaderi" /></p>--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeid-ghaderi&" alt="saeid-ghaderi" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saeid-Ghaderi/Saeid-Ghaderi/output/github-stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saeid-Ghaderi/Saeid-Ghaderi/output/github-stats.svg" />
+  <img alt="Saeid Ghaderi's GitHub activity" src="https://raw.githubusercontent.com/Saeid-Ghaderi/Saeid-Ghaderi/output/github-stats.svg" />
+</picture>
+
 
 <h3 align="left">Connect with me:</h3>
 <div class="icon-container">
