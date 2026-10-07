@@ -7,50 +7,135 @@
 
 <h1>Hi There, I'm Saeid Ghaderi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I have more than 11 years of IT experience in various positions like Senior .NET Developer, Senior Software Engineer, Software Engineer, and Programmer. My expertise lies in developing websites using ASP.Net, ASP.Net Core, HTML, CSS, JavaScript, React, XML, Microsoft.Net Framework, C#, Ef Core, ADO.Net, MS-SQL Server Web Services, Win Forms and Reporting Services, Microservices, Restful API, 3-Tier and N-Tier Architecture, LINQ, WCF, WPF, SOAP, and JSON.
+I have more than 12 years of IT experience in various positions like Senior .NET Developer, Senior Software Engineer, Software Engineer, and Programmer. My expertise lies in developing websites using ASP.Net, ASP.Net Core, HTML, CSS, JavaScript, React, XML, Microsoft.Net Framework, C#, Ef Core, ADO.Net, MS-SQL Server Web Services, Win Forms and Reporting Services, Microservices, Restful API, 3-Tier and N-Tier Architecture, LINQ, WCF, WPF, SOAP, and JSON.
 
-## Skill Set :muscle:
+## 🧰 Skill Set
 
-## Languages and Tools:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### ⭐ Core Expertise: .NET, Microsoft &amp; Software Architecture
 
-<h3 align="left">These are some of the major technologies that I use or have worked on in the past:</h3>
+11+ years of designing and building web applications, APIs and services on the Microsoft stack.
 
 <table>
   <tr>
-    <td align="center"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://azure.microsoft.com/en-in/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="52" height="52" alt="C#" /><br /><sub><b>C#</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="52" height="52" alt=".NET and ASP.NET Core" /><br /><sub><b>.NET &amp;<br />ASP.NET Core</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="52" height="52" alt="EF Core" /><br /><sub><b>EF Core</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="52" height="52" alt="SQL Server" /><br /><sub><b>SQL Server</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="52" height="52" alt="Azure" /><br /><sub><b>Azure</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="52" height="52" alt="Visual Studio" /><br /><sub><b>Visual Studio</b></sub></td>
   </tr>
 </table>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Web_API-512BD4?style=flat-square" alt="Web API" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square" alt="Blazor" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat-square" alt="LINQ" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square" alt="ADO.NET" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square" alt="WPF" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square" alt="WinForms" />
+  <img src="https://img.shields.io/badge/WCF-512BD4?style=flat-square" alt="WCF" />
+  <img src="https://img.shields.io/badge/SSRS-512BD4?style=flat-square" alt="SSRS" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-0969DA?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Software_Architecture-0969DA?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Software_Design-0969DA?style=flat-square" alt="Software Design" />
+  <img src="https://img.shields.io/badge/N--Tier_Architecture-0969DA?style=flat-square" alt="N-Tier Architecture" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0969DA?style=flat-square" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/SOAP-0969DA?style=flat-square" alt="SOAP" />
+  <img src="https://img.shields.io/badge/JWT-0969DA?style=flat-square" alt="JWT" />
+  <img src="https://img.shields.io/badge/Decision_Records_(ADR)-0969DA?style=flat-square" alt="Decision Records (ADR)" />
+</p>
+
+### 💼 Hands-on Experience
+
+Technologies I use alongside .NET, from the frontend to the cloud.
+
+<table>
+  <tr>
+    <td colspan="6"><b>🟨 TypeScript &amp; JavaScript</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="6"><b>🎨 Frontend &amp; UI</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" /><br /><sub><b>Redux</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" /><br /><sub><b>Angular</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="6"><b>🗄️ Databases &amp; Messaging</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /><br /><sub><b>PostgreSQL</b></sub></td>
+        <td align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/5D9CEC" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></picture><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" /><br /><sub><b>Redis</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" alt="RabbitMQ" /><br /><sub><b>RabbitMQ</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="6"><b>☁️ Cloud &amp; DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" /><br /><sub><b>AWS</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br /><sub><b>Docker</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" /><br /><sub><b>Kubernetes</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" /><br /><sub><b>GitHub Actions</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="6"><b>🛠️ Developer Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br /><sub><b>VS Code</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+    <td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" alt="Jira" /><br /><sub><b>Jira</b></sub></td>
+  </tr>
+</table>
+
+### 🤖 AI-Assisted Engineering
+
+AI coding agents in daily development, with shared project skills, rules and MCP integrations.
+
+<table>
+  <tr>
+    <td align="center" valign="top"><img src="https://cdn.simpleicons.org/claude/D97757" width="40" height="40" alt="Claude" /><br /><sub><b>Claude</b></sub></td>
+    <td align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff" /><img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40" alt="Cursor" /></picture><br /><sub><b>Cursor</b></sub></td>
+    <td align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/ffffff" /><img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40" alt="GitHub Copilot" /></picture><br /><sub><b>GitHub Copilot</b></sub></td>
+    <td align="center" valign="top"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/ffffff" /><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" width="40" height="40" alt="MCP" /></picture><br /><sub><b>MCP</b></sub></td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-C15F3C?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Agent_Skills-C15F3C?style=flat-square" alt="Agent Skills" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-C15F3C?style=flat-square" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-C15F3C?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Context_Engineering-C15F3C?style=flat-square" alt="Context Engineering" />
+</p>
+
+### 🌱 Also Worked With
+
+<p>
+  <img src="https://img.shields.io/badge/Android-6E7781?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-6E7781?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/React_Native-6E7781?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/Python-6E7781?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Firebase-6E7781?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQLite-6E7781?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Bootstrap-6E7781?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/jQuery-6E7781?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+</p>
+
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeid-ghaderi&show_icons=true&locale=en&layout=compact" alt="saeid-ghaderi" /></p> --->
 
