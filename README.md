@@ -40,6 +40,8 @@ I have more than 12 years of IT experience in various positions like Senior .NET
 
 <p>
   <img src="https://img.shields.io/badge/Microservices-0969DA?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/DDD-0969DA?style=flat-square" alt="DDD" />
+  <img src="https://img.shields.io/badge/CQRS-0969DA?style=flat-square" alt="CQRS" />
   <img src="https://img.shields.io/badge/Software_Architecture-0969DA?style=flat-square" alt="Software Architecture" />
   <img src="https://img.shields.io/badge/Software_Design-0969DA?style=flat-square" alt="Software Design" />
   <img src="https://img.shields.io/badge/N--Tier_Architecture-0969DA?style=flat-square" alt="N-Tier Architecture" />
