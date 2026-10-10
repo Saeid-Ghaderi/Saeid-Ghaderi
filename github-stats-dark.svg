@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="card-title">
+  <title id="card-title">Saeid Ghaderi&#39;s GitHub Activity</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+    .label { font-size: 14px; font-weight: 600; fill: #c9d1d9; }
+    .value { font-size: 14px; fill: #c9d1d9; }
+    .total { font-size: 22px; font-weight: 700; fill: #c9d1d9; }
+    .caption { font-size: 11px; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#0d1117" stroke="#30363d"/>
+  <text x="25" y="35" class="title">Saeid Ghaderi&#39;s GitHub Activity</text>
+  <text x="25" y="75" class="label">Last 12 months:</text><text x="215" y="75" class="value">2,038</text>
+  <text x="25" y="100" class="label">Private contributions:</text><text x="215" y="100" class="value">2,051</text>
+  <text x="25" y="125" class="label">Public contributions:</text><text x="215" y="125" class="value">92</text>
+  <text x="25" y="150" class="label">Active days:</text><text x="215" y="150" class="value">196</text>
+  <text x="25" y="175" class="label">Best day:</text><text x="215" y="175" class="value">77 (Sep 24, 2026)</text>
+  <circle cx="410" cy="108" r="50" fill="none" stroke="#58a6ff" stroke-width="6"/>
+  <text x="410" y="113" text-anchor="middle" class="total">2,143</text>
+  <text x="410" y="131" text-anchor="middle" class="caption">contributions</text>
+  <text x="410" y="180" text-anchor="middle" class="caption">since Jun 2024</text>
+</svg>
